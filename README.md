@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/karthiks/node-travis.png)](https://travis-ci.org/karthiks/node-travis)
+
 node-travis
 ===========
 
@@ -15,7 +17,11 @@ Travis CI is a hosted continuous integration service for the open source communi
 ## Contributors
 * [Karthik Sirasanagandla](https://github.com/karthiks/)
 
-## References
+## Learning Resources and References
 * [Getting started with Travis-CI](http://about.travis-ci.org/docs/user/getting-started/)
+* [General build configuration in Travis-CI](http://about.travis-ci.org/docs/user/build-configuration/)
+* [Building a Node.js project with Travis-CI](http://about.travis-ci.org/docs/user/languages/javascript-with-nodejs/)
 * [Travis-CI: What, Why, How](http://net.tutsplus.com/tutorials/tools-and-tips/travis-ci-what-why-how/) by [Sayanee](https://github.com/sayanee)
 * [npmjs package - travis-ci](https://npmjs.org/package/travis-ci)
+* [Travis CI](http://bostonrb.org/presentations/travis-ci) - Video: Presentation at Boston.rb by [Jeremy Weisskotten](https://twitter.com/#!/doctorzaius)
+* [Travis - a distributed build server tool for the Ruby community](http://svenfuchs.com/2011/2/5/travis-a-distributed-build-server-tool-for-the-ruby-community) - Introductory blog post about the original idea by [Sven Fuchs](http://svenfuchs.com/)
