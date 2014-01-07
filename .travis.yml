@@ -1,0 +1,6 @@
+language: node_js
+node_js:
+  - "0.10"
+
+# This will make Travis run your tests against the latest (as provided by Travis maintainers, not necessary the absolutely the latest)
+# 0.10 is an alias for "the most recent 0.10.x release" and so on. Please note that using exact versions (for example, 0.10.2) is highly discouraged because as versions change, your .travis.yml will get outdated and things will break.
